@@ -1,4 +1,7 @@
-﻿using System.Net.Security;
+﻿using System.Globalization;
+
+Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
+//Using "." instead of ","
 var outputString = "Hello, World!";
 Console.WriteLine(outputString);
 float decimalValue;
