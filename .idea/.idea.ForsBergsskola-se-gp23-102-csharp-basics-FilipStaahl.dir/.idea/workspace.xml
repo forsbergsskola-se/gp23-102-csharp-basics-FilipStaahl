@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09809495-b904-4ddf-a934-f5a75ab2339d" name="Changes" comment="" />
+    <list default="true" id="09809495-b904-4ddf-a934-f5a75ab2339d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ForsBergsskola-se-gp23-102-csharp-basics-FilipStaahl.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ForsBergsskola-se-gp23-102-csharp-basics-FilipStaahl.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +50,9 @@
       <workItem from="1693898301027" duration="7000" />
       <workItem from="1693898312779" duration="2000" />
       <workItem from="1693898443897" duration="1000" />
+      <workItem from="1693900154261" duration="86000" />
+      <workItem from="1693900242698" duration="2000" />
+      <workItem from="1693900246847" duration="1000" />
     </task>
     <servers />
   </component>
