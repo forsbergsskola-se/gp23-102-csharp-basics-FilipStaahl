@@ -1,5 +1,5 @@
-﻿int money;
-money = 5;
-Console.WriteLine(money);
-money = 10;
-Console.WriteLine(money);
+﻿int number; // Defenition / Declaration
+number = 5; // Initialization
+Console.WriteLine(number);
+number = 10;
+Console.WriteLine(number);
