@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P7Input", "P7Input\P7Input.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P8Conversion", "P8Conversion\P8Conversion.csproj", "{1F0FE7D0-673F-47F2-8868-30FC800A6B8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9Operators", "P9Operators\P9Operators.csproj", "{BC3339C2-1D1C-4427-9B55-0C908C47D543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOTES", "NOTES\NOTES.csproj", "{5BDCB1E0-C016-4A62-94AE-21036D3F9AD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +52,13 @@ Global
 		{1F0FE7D0-673F-47F2-8868-30FC800A6B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F0FE7D0-673F-47F2-8868-30FC800A6B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F0FE7D0-673F-47F2-8868-30FC800A6B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3339C2-1D1C-4427-9B55-0C908C47D543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3339C2-1D1C-4427-9B55-0C908C47D543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3339C2-1D1C-4427-9B55-0C908C47D543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3339C2-1D1C-4427-9B55-0C908C47D543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BDCB1E0-C016-4A62-94AE-21036D3F9AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDCB1E0-C016-4A62-94AE-21036D3F9AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDCB1E0-C016-4A62-94AE-21036D3F9AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDCB1E0-C016-4A62-94AE-21036D3F9AD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

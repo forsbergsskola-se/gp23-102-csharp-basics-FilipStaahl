@@ -1,13 +1,15 @@
-﻿using System.Globalization;
-
-float number = 5.6f;
-Console.WriteLine("Give me a number.");
-var input= Console.ReadLine();
+﻿Console.WriteLine("Give me a number.");
+string number = Console.ReadLine();
+double d = double.Parse(number);
 Console.WriteLine(number);
-double fractionalNumber = 5;
-Console.WriteLine(fractionalNumber);
-fractionalNumber = Convert.ToDouble(input, CultureInfo.InvariantCulture);
-Console.WriteLine(fractionalNumber);
+int i = (int)d;
+Console.WriteLine(i);
+int o = int.Parse(number);
+Console.WriteLine(o);
 
+//First: Try to assigning it. Error? then
+//Second: Try casting it. Error? Then
+//Third: Try parsing it. Error? Then
+//Last Resort: Try Converting it. Error? You're living in Spain without a S.
 
 
