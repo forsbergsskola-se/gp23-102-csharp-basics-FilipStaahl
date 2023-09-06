@@ -15,7 +15,7 @@ Console.WriteLine("Please enter a value in km/h");
 
 string userInput = Console.ReadLine();
 
-float userNumber = float.Parse(userInput);
+float userNumber = Convert.ToSingle(userInput);
 
 float x = userNumber * 1000 / 60 / 60;
 

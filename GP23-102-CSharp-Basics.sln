@@ -18,6 +18,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9Operators", "P9Operators\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOTES", "NOTES\NOTES.csproj", "{5BDCB1E0-C016-4A62-94AE-21036D3F9AD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9.1LunchAssignmentMinutesToSeconds", "P9.1LunchAssignmentMinutesToSeconds\P9.1LunchAssignmentMinutesToSeconds.csproj", "{A1F38E7E-A10D-4EAF-B46F-C087CA69D03D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11AssignmentsOperators", "P11AssignmentsOperators\P11AssignmentsOperators.csproj", "{2BB0F155-82C5-42B6-8666-91E123A8BCA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +64,13 @@ Global
 		{5BDCB1E0-C016-4A62-94AE-21036D3F9AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BDCB1E0-C016-4A62-94AE-21036D3F9AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BDCB1E0-C016-4A62-94AE-21036D3F9AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F38E7E-A10D-4EAF-B46F-C087CA69D03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F38E7E-A10D-4EAF-B46F-C087CA69D03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F38E7E-A10D-4EAF-B46F-C087CA69D03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F38E7E-A10D-4EAF-B46F-C087CA69D03D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB0F155-82C5-42B6-8666-91E123A8BCA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB0F155-82C5-42B6-8666-91E123A8BCA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB0F155-82C5-42B6-8666-91E123A8BCA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB0F155-82C5-42B6-8666-91E123A8BCA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
