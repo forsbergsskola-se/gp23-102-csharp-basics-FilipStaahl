@@ -45,7 +45,7 @@ Console.WriteLine($"The area of the circle is {answer}"); */
 // Write a program that takes an integer input and displays its negation using the unary minus operator.* (requires Google
 
 
-/*Console.WriteLine("Hello! Please give me a number to switch for you!");
+/* Console.WriteLine("Hello! Please give me a number to switch for you!");
 string userInputN = Console.ReadLine();
 int x = Convert.ToInt32();
 int x = userInputN;
@@ -62,7 +62,7 @@ Console.WriteLine($"The negation of {number} is {negatedNumber}");*/
 
 // Develop a program that takes two integers as input and calculates their product using the multiplication operator.
 
-/* Console.WriteLine("Hello what would you like to multiply?");
+Console.WriteLine("Hello what would you like to multiply?");
 Console.WriteLine("Please enter your first number");
 string numberX = Console.ReadLine();
 int x = Convert.ToInt32(numberX);
@@ -70,7 +70,7 @@ Console.WriteLine("Perfect, now add another number.");
 string numberY = Console.ReadLine();
 int y = Convert.ToInt32(numberY);
 float answer = x * y;
-Console.WriteLine($"The answer for {numberX} * {numberY} = {answer}"); */
+Console.WriteLine($"The answer for {numberX} * {numberY} = {answer}"); 
 
 
 
