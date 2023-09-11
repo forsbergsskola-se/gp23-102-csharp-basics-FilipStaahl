@@ -22,7 +22,7 @@ Console.WriteLine($"{userInputX} divided by {userInputY} equals {answer}");*/
 
 // Write a program that calculates the remainder of dividing two integers and displays the result.
 
-Console.WriteLine("Hello and welcome to your calculator!");
+/* Console.WriteLine("Hello and welcome to your calculator!");
 Console.WriteLine("What numbers can I divide for you?");
 string userInputX = Console.ReadLine();
 int x = Convert.ToInt32(userInputX);
@@ -30,7 +30,7 @@ Console.WriteLine("Please add your second number");
 string userInputY = Console.ReadLine();
 int y = Convert.ToInt32(userInputY);
 float answer = y % x;
-Console.WriteLine($"{userInputX} divided by {userInputY} equals {answer}");
+Console.WriteLine($"{userInputX} divided by {userInputY} equals {answer}"); */
 
 
 // Develop a program that calculates the area of a circle using a float input for the radius and displays the result. (probably requires google for the Maths)
