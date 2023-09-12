@@ -20,18 +20,22 @@ Input:20
 Output:The maximum is: 31
 Output:Your number is an odd number.*/
 
-/* Console.WriteLine("What is your age?");
+Console.WriteLine("What is your age?");
 int  num = int.Parse(Console.ReadLine());
 if (num > 18)
 {
     Console.WriteLine("You are an adult.");
 }
-Console.WriteLine("Please give me another integer."); */
+Console.WriteLine("Please give me another integer.");
 
 
 
 Console.Write("Enter the number of seconds: ");
 int totalSeconds = Convert.ToInt32(Console.ReadLine());
+
+
+// ----------------------------------------------------------------
+
 
 double totalDaysFraction = (double)totalSeconds / 86400;
 
