@@ -26,6 +26,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10Boolean", "P10Boolean\P1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11IfElese", "P11IfElese\P11IfElese.csproj", "{3B15E77D-A0CB-4A50-9376-20822C1C4B74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P111 MarcEpicCodeAdjustments", "P111 MarcEpicCodeAdjustments\P111 MarcEpicCodeAdjustments.csproj", "{67B07CC5-961E-46CE-9721-C24B70A29554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12Random", "P12Random\P12Random.csproj", "{FFDD1BA3-7EAE-457B-A1DF-26E2E679A678}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +88,13 @@ Global
 		{3B15E77D-A0CB-4A50-9376-20822C1C4B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B15E77D-A0CB-4A50-9376-20822C1C4B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B15E77D-A0CB-4A50-9376-20822C1C4B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B07CC5-961E-46CE-9721-C24B70A29554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B07CC5-961E-46CE-9721-C24B70A29554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B07CC5-961E-46CE-9721-C24B70A29554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B07CC5-961E-46CE-9721-C24B70A29554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFDD1BA3-7EAE-457B-A1DF-26E2E679A678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDD1BA3-7EAE-457B-A1DF-26E2E679A678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDD1BA3-7EAE-457B-A1DF-26E2E679A678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDD1BA3-7EAE-457B-A1DF-26E2E679A678}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -49,7 +49,7 @@ Console.WriteLine($"The area of the circle is {answer}"); */
 string userInputN = Console.ReadLine();
 int x = Convert.ToInt32();
 int x = userInputN;
-int y = -x;*/
+int y = -x; */
 
 //Write a program that takes an integer input and displays its negation using the unary minus operator.* (requires Google)
 
