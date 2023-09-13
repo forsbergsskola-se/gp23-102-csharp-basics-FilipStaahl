@@ -1,11 +1,11 @@
 ﻿// Implement a program that takes two integers as input and displays their division result as a float.
 
-/*Console.WriteLine("Welcome to the KM/h to M/s Converter!");
+Console.WriteLine("Welcome to the KM/h to M/s Converter!");
 Console.WriteLine("Please type in a amount of KM/H that you want to convert");
 string userInput = Console.ReadLine();
 float userKM = float.Parse(userInput);
 float x = userKM / 3600 * 1000;
-Console.WriteLine($" The answer to {userInput} KM/h in M/s is {x}"); */
+Console.WriteLine($" The answer to {userInput} KM/h in M/s is {x}");
 
 // Implement a program that takes two integers as input and displays their division result as a float.
 
@@ -71,6 +71,35 @@ string numberY = Console.ReadLine();
 int y = Convert.ToInt32(numberY);
 float answer = x * y;
 Console.WriteLine($"The answer for {numberX} * {numberY} = {answer}"); */
+
+
+/* Console.WriteLine("Type in your age.");
+string userInput = Console.ReadLine();
+int age = Convert.ToInt32(userInput);
+bool isChild = age < 13;
+Console.WriteLine($"You are concidered a child: {isChild}");
+bool isTeenager = age >= 13 && age <= 19;
+Console.WriteLine($"You are condidered a teenager: {isTeenager}");
+bool isAdult = age > 19;
+Console.WriteLine($"You are concidered a adult: {isAdult}"); */
+
+
+/*GOAL assignment
+Output:What's your age?
+Input:31
+Output:You are a grown-up.
+Output:Give me another integer.
+Input:20
+Output:The maximum is: 31
+Output:Your number is an odd number.*/
+
+/* Console.WriteLine("What is your age?");
+int  num = int.Parse(Console.ReadLine());
+if (num > 18)
+{
+    Console.WriteLine("You are an adult.");
+}
+Console.WriteLine("Please give me another integer."); */
 
 
 

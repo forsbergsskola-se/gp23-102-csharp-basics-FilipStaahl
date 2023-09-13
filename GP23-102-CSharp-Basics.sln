@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12Random", "P12Random\P12R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13-go-to", "P13-go-to\P13-go-to.csproj", "{98BD046D-7154-421C-9401-8D7F766ECE59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P0TEST", "P0TEST\P0TEST.csproj", "{A00D8F1F-9C6B-4241-9667-A0D3C10A226E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{98BD046D-7154-421C-9401-8D7F766ECE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98BD046D-7154-421C-9401-8D7F766ECE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98BD046D-7154-421C-9401-8D7F766ECE59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A00D8F1F-9C6B-4241-9667-A0D3C10A226E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00D8F1F-9C6B-4241-9667-A0D3C10A226E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00D8F1F-9C6B-4241-9667-A0D3C10A226E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00D8F1F-9C6B-4241-9667-A0D3C10A226E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
